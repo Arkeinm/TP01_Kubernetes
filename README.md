@@ -1,4 +1,13 @@
-## Screenshots
+# 🚀 WordPress + MariaDB + phpMyAdmin avec Docker
+
+## 📌 Description
+
+Ce projet déploie un environnement complet **WordPress** avec :
+
+- 🗄️ MariaDB (base de données)
+- 🌐 WordPress
+- 🛠️ phpMyAdmin (administration de la base)
+- 🐳 Orchestration via Docker Compose
 
 ### Screen 01
 ![Screen 01](Screens/01.jpg)
