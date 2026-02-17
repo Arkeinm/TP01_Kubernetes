@@ -98,3 +98,8 @@ volumes:
   db_data:
   wordpress_data:
 ```
+
+
+## Contastation 
+
+On peut constater que les données faites à la première utilisation sont gardées en mémoire.
